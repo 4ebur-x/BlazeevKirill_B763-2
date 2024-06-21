@@ -1,5 +1,10 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/*
+Блажеев Кирилл Б763-2
+Вариант А
+1. Найти самое короткое и самое длинное число. Вывести найденные числа
+и их длину.
+*/
+
 import java.util.Scanner;
 
 
