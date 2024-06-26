@@ -33,6 +33,5 @@ public abstract class mobileOperator{
     public abstract void changeTariffPlanOperator(String operator, String tariff);
     public abstract void addMoney(int Add);
     public abstract void closeAccount(boolean Choice);
-    public abstract void addUser(String number);
-    public abstract void delUser(String number);
+
 }
