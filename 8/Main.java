@@ -1,9 +1,15 @@
-
+/*
+Блажеев Кирилл Б763-2
+Вариант А
+2. В тексте каждую букву заменить ее порядковым номером в алфавите. При
+выводе в одной строке печатать текст с двумя пробелами между буквами,
+в следующей строке внизу под каждой буквой печатать ее номер
+*/
 
 public class Main {
     public static void main(String[] args) {
         String words1 = "Я гений этого времени";
-        String alphabet1 = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя ";
+        String alphabet1 = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя";
         char[] alphabet2 = alphabet1.toCharArray();
         char[] words2 = words1.replaceAll("\s", "").toLowerCase().toCharArray();
 
