@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gems>
+    <gem>
+        <name>Алмаз</name>
+        <preciousness>драгоценный</preciousness>
+        <origin>Южная Африка</origin>
+        <visualParameters>
+            <color>бесцветный</color>
+            <transparency>100</transparency>
+            <cut>8</cut>
+        </visualParameters>
+        <value>1.5</value>
+    </gem>
+    <gem>
+        <name>Рубин</name>
+        <preciousness>драгоценный</preciousness>
+        <origin>Мьянма</origin>
+        <visualParameters>
+            <color>красный</color>
+            <transparency>98</transparency>
+            <cut>9</cut>
+        </visualParameters>
+        <value>2.0</value>
+    </gem>
+</gems>
